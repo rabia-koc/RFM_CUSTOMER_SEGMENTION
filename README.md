@@ -1,5 +1,5 @@
 # Customer Segmention using RFM
-* Mevcut müşterilerimizin satın alma davranışlarını göz önünde bulundurarak RFM analizi ile müşterilerimizi segmentlere ayırıp onlar için özel kararlar alıcaz.
+* Mevcut müşterilerimizin satın alma davranışlarını göz önünde bulundurarak RFM analizi ile müşterilerimizi segmentlere ayırıp onlar için özel kararlar aldık.
 
 # İş Problemi
 * Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istemektedir.
